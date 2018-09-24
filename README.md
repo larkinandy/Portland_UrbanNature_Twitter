@@ -18,7 +18,7 @@ Urban nature has many health benefits, and there are many hpothesized pathways o
 **TODO:**
 
 [ ] add PDX_Nature_Example_2017.csv (waiting until paper has been accepted for publication) <br>
-[ ] add Vader.py script 
+[X] add Vader.py script 
 
 
 **History:** <br>
