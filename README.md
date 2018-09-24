@@ -22,4 +22,4 @@ Urban nature has many health benefits, and there are many hpothesized pathways o
 
 
 **History:** <br>
-This project is a combination of my MPH culminating experience project at George Washington University, Social Media Analytics course at Johns Hopkins University, and continuing reserach into novel data streams for public health at Oregon State University.  Perry Hystad, Christina Hemminger, and Ian McCulluh contributed to the research described here.
+This project is a combination of my [MPH culminating experience project at George Washington University](https://github.com/larkinandy/MPH-Culminating-Experience), Social Media Analytics course at Johns Hopkins University, and continuing reserach into novel data streams for public health at Oregon State University.  Perry Hystad, Christina Hemminger, and Ian McCulluh contributed to the research described here.
